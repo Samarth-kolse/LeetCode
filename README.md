@@ -16,6 +16,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,16 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

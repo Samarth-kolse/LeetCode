@@ -7,6 +7,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

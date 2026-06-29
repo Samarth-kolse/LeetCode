@@ -10,6 +10,7 @@ A collection of LeetCode questions with solutions.
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
+| [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum

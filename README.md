@@ -15,6 +15,7 @@ A collection of LeetCode questions with solutions.
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions with solutions.
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

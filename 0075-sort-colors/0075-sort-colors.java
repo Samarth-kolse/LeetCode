@@ -1,14 +1,23 @@
 class Solution {
     public void sortColors(int[] nums) {
         int n=nums.length;
-        for(int i =0;i<n-1;i++){
-            for(int j=0;j<n-1;j++){
-                if(nums[j]>nums[j+1]){
-                    int temp=nums[j];
-                    nums[j]=nums[j+1];
-                    nums[j+1]=temp;
-                }
+        ArrayList<Integer> list1= new ArrayList<>();
+        ArrayList<Integer> list2= new ArrayList<>();
+        ArrayList<Integer> list3= new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                list1.add(nums[i]);
+            }else if(nums[i]==1){
+                list2.add(nums[i]);
+            }else{
+                list3.add(nums[i]);
             }
         }
+        list1.addAll(list2);
+        list1.addAll(list3);
+        for(int i=0;i<n;i++){
+            nums[i]=list1.get(i);
+        }
+
     }
 }

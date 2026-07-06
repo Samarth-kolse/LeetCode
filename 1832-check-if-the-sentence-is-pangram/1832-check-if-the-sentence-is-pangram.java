@@ -6,7 +6,7 @@ class Solution {
             arr[idx]++;
         }
         for(int j=0;j<arr.length;j++){
-            if(arr[j]<1){
+            if(arr[j]==0){
                 return false;
             }
         }

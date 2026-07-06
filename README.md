@@ -25,6 +25,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->

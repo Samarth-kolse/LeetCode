@@ -1,8 +1,9 @@
 class Solution {
     public String defangIPaddr(String address) {
-        StringBuilder res=new StringBuilder();
-
         int n=address.length();
+        StringBuilder res=new StringBuilder(n);
+
+        
         for(int i=0;i<n;i++){
             char ch=address.charAt(i);
             if(ch=='.'){

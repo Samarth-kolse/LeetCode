@@ -31,6 +31,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions with solutions.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions with solutions.
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Samarth-kolse/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Samarth-kolse/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Samarth-kolse/LeetCode/tree/master/1768-merge-strings-alternately) |

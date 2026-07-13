@@ -24,6 +24,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -91,6 +93,7 @@ A collection of LeetCode questions with solutions.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Samarth-kolse/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Samarth-kolse/LeetCode/tree/master/1678-goal-parser-interpretation) |

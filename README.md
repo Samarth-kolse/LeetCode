@@ -20,6 +20,7 @@ A collection of LeetCode questions with solutions.
 | [1408-string-matching-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Samarth-kolse/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Samarth-kolse/LeetCode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions with solutions.
 | [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
+| [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |

@@ -18,6 +18,7 @@ A collection of LeetCode questions with solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [1408-string-matching-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Samarth-kolse/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions with solutions.
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1408-string-matching-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

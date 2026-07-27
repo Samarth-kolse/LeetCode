@@ -13,6 +13,7 @@ A collection of LeetCode questions with solutions.
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Samarth-kolse/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions with solutions.
 | [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -52,6 +52,7 @@ A collection of LeetCode questions with solutions.
 | [0876-middle-of-the-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Samarth-kolse/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -136,4 +137,5 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

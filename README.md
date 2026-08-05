@@ -10,6 +10,7 @@ A collection of LeetCode questions with solutions.
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Samarth-kolse/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions with solutions.
 | [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions with solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## String
@@ -145,4 +149,12 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Samarth-kolse/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

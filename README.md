@@ -18,6 +18,7 @@ A collection of LeetCode questions with solutions.
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
 | [1408-string-matching-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions with solutions.
 | [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -163,4 +166,16 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

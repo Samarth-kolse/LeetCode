@@ -7,6 +7,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Samarth-kolse/LeetCode/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions with solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samarth-kolse/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Samarth-kolse/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

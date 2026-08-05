@@ -33,6 +33,7 @@ A collection of LeetCode questions with solutions.
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Samarth-kolse/LeetCode/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Samarth-kolse/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Samarth-kolse/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -136,6 +138,11 @@ A collection of LeetCode questions with solutions.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samarth-kolse/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Samarth-kolse/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

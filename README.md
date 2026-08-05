@@ -24,6 +24,7 @@ A collection of LeetCode questions with solutions.
 | [1408-string-matching-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarth-kolse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1706-where-will-the-ball-fall](https://github.com/Samarth-kolse/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1732-find-the-highest-altitude](https://github.com/Samarth-kolse/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Samarth-kolse/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Samarth-kolse/LeetCode/tree/master/1816-truncate-sentence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/Samarth-kolse/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions with solutions.
 | [0498-diagonal-traverse](https://github.com/Samarth-kolse/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Samarth-kolse/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/Samarth-kolse/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2460-apply-operations-to-an-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |

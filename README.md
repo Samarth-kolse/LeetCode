@@ -49,6 +49,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0009-palindrome-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Samarth-kolse/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Samarth-kolse/LeetCode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Samarth-kolse/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Samarth-kolse/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samarth-kolse/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions with solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Samarth-kolse/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions with solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samarth-kolse/LeetCode/tree/master/0011-container-with-most-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samarth-kolse/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

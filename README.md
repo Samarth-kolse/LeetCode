@@ -19,6 +19,7 @@ A collection of LeetCode questions with solutions.
 | [0661-image-smoother](https://github.com/Samarth-kolse/LeetCode/tree/master/0661-image-smoother) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Samarth-kolse/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Samarth-kolse/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Samarth-kolse/LeetCode/tree/master/1051-height-checker) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions with solutions.
 | [0069-sqrtx](https://github.com/Samarth-kolse/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Samarth-kolse/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samarth-kolse/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |

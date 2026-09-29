@@ -8,6 +8,7 @@ A collection of LeetCode questions with solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Samarth-kolse/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Samarth-kolse/LeetCode/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Samarth-kolse/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarth-kolse/LeetCode/tree/master/0075-sort-colors) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions with solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Samarth-kolse/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Samarth-kolse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samarth-kolse/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
